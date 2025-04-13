@@ -1,4 +1,3 @@
-# Genai_practiceground
 # The Transformer Architecture
 
 The Transformer is an **encoder-decoder** model designed for sequence-to-sequence tasks. It processes input and output sequences using stacks of identical layers, each leveraging attention and feed-forward networks. Figure 1 in the paper illustrates this structure (reproduced with permission for scholarly use).
