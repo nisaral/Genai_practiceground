@@ -50,7 +50,7 @@ The Transformer is an **encoder-decoder** model designed for sequence-to-sequenc
 ### 5. Embeddings and Softmax
 
 * Input/output tokens are embedded into d_model=512 vectors.
-* Shared weights between input/output embeddings and the final softmax layer, scaled by √d_model.
+* Shared weights between input/output embeddings and the final softmax layer, scaled by √d_model
 
 ## Advantages Over RNNs/CNNs
 
